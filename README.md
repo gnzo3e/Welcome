@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 
 - 📫 How to reach me @gnzo3e
 - 🔰 We are all beginners
-- ¾  Is not all the way 
+- ¾ Is not all the way 
 
 <!---
 gnzo3e/Welcome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
